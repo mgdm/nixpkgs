@@ -5030,6 +5030,8 @@ in
 
   pygmentex = callPackage ../tools/typesetting/pygmentex { };
 
+  pygments-rb = callPackage ../development/tools/pygments-rb { };
+
   pythonIRClib = pythonPackages.pythonIRClib;
 
   pythonSexy = pythonPackages.libsexy;

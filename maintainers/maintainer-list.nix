@@ -2790,6 +2790,11 @@
     github = "mgdelacroix";
     name = "Miguel de la Cruz";
   };
+  mgdm = {
+    email = "michael@mgdm.net";
+    github = "mgdm";
+    name = "Michael Maclean";
+  };
   mgregoire = {
     email = "gregoire@martinache.net";
     github = "M-Gregoire";
